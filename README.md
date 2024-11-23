@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm DanielPM</h1>
 <h3 align="center">Learning, creating and growing in the world of Backend Development with Java</h3>
 
-- 📫 How to reach me **danielpm.dev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 How to reach me **danielpm.dev@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
