@@ -56,6 +56,13 @@
 
 ---
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/danielpmdev/)  
-- 📧 danielpm.dev@gmail.com  
+## 📫 Let's Get in Touch!
+<div align="center">
+  <a href="https://www.linkedin.com/in/danielpmdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:danielpm.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danielpm.dev%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</div>
