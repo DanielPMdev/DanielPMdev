@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DanielPM</h1>
 <h3 align="center">I am a Java software developer, currently focused on mastering backend development and database management. I enjoy learning from problems and growing as a developer.</h3>
 
----
+
 
 ## 💻 Languages and Tools:
 <div align="center">
@@ -54,7 +54,7 @@
   </div>
 </div>
 
----
+
 
 ## 📫 Let's Get in Touch!
 <div align="center">
