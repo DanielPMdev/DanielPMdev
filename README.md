@@ -22,52 +22,80 @@
 
 ## 💻 Languages & Tools
 <div align="center">
+  
+### 🧩 Languages, AI & Frameworks
 
-### 🧩 Languages & Frameworks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appian/appian-original.svg" height="40" alt="appian logo" />
-</div>
-<br><br>
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.brandfetch.io/idgvcUMxVJ/idJW9cvupo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="appian logo" style="vertical-align: top;" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
 
-### 🎨 Frontend Basics
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
+### 🎨 Frontend
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 
-### 🗄️ Databases
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-</a>
+### 🗄️ Databases & Data Streaming
+
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo" />
+<img width="12" />
+<img src="https://cdn.brandfetch.io/idpMxmPV8l/w/480/h/480/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="neo4j logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+
+### 🚀 Cloud, DevOps & Automation
+
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo" />
+
+### 🛠️ Tools & Productivity
+
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij idea logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo" />
 
 </div>
 
