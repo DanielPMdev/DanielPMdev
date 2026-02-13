@@ -57,7 +57,7 @@
 
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+<img src="https://cdn.brandfetch.io/idnq7H7qT0/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="oracle logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
 <img width="12" />
