@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DanielPM</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">
   Junior Backend Developer | Java & Spring Ecosystem | Data Engineering & AI Enthusiast
 </h3>
