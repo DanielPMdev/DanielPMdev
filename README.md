@@ -41,18 +41,6 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-
 ### 🗄️ Databases & Data Streaming
 
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
@@ -72,6 +60,18 @@
 <img src="https://cdn.brandfetch.io/idpMxmPV8l/w/480/h/480/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="neo4j logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 
 ### 🚀 Cloud, DevOps & Automation
 
