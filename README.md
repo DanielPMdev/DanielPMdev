@@ -32,8 +32,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Votium**](https://github.com/danielpmdev/votium) | REST API for real-time event voting with JWT auth and interactive stats | Java · Spring Boot · Spring Security · Chart.js · Thymeleaf |
-| [**PetTracker**](https://github.com/danielpmdev/pettracker) | Pet profile & medical history management API with full CRUD and role-based security | Java · Spring Boot · JPA · Oracle · JWT |
+| [**Votium**]([https://github.com/DanielPMdev/VotiumApp]) | REST API for real-time event voting with JWT auth and interactive stats | Java · Spring Boot · Spring Security · Chart.js · Thymeleaf |
 
 ---
 
