@@ -1,113 +1,60 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">
-  Junior Backend Developer | Java & Spring Ecosystem | Data Engineering & AI Enthusiast
-</h3>
+<h1 align="center">Daniel Porras Morales</h1>
+<h3 align="center">Junior Data Engineer · Python · Kafka · ELK Stack · ML</h3>
 
 <p align="center">
-  Passionate about building solid backend systems, working with data, and learning advanced software engineering concepts.<br/>
-  Currently focused on Java, Spring Boot, databases (SQL & NoSQL), and expanding into microservices, Kafka, ML, and Big Data.
+  Building data pipelines, processing streams, and extracting insights from real-world data.<br/>
+  Currently specializing in AI & Big Data at IES Abastos (Valencia, Spain).
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielpmdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-danielpmdev-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danielpm.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danielpm.dev@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-- 📘 Studying **Artificial Intelligence & Big Data specialization**  
-- 💼 Experience with **Java, Spring Boot, Python, Kotlin, Appian**  
-- 🛠️ I enjoy creating **REST APIs**, working with **databases**, and building clean, scalable backend logic  
-- 📡 Exploring **microservices**, **Kafka**, and **Data Engineering**  
-- 🌱 Always learning and improving my skills as a developer  
+## 🔬 Featured Project
+
+### Mercadona Price Intelligence Pipeline *(TFE — coming soon)*
+> Daily scraping of the full Mercadona catalog (~4,300 products) running since October 2024.
+> Detects shrinkflation, tracks price evolution, and builds a personalized consumer price index.
+
+**Stack:** Python · Elasticsearch · Kibana · Docker · scikit-learn  
+**Status:** In active development — repo will go public after academic presentation (June 2026)
 
 ---
 
-## 💻 Languages & Tools
-<div align="center">
-  
-### 🧩 Languages, AI & Frameworks
+## 🛠️ Projects
 
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.brandfetch.io/idgvcUMxVJ/idJW9cvupo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="appian logo" style="vertical-align: top;" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-
-### 🗄️ Databases & Data Streaming
-
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-<img width="12" />
-<img src="https://cdn.brandfetch.io/idnq7H7qT0/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="oracle logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo" />
-<img width="12" />
-<img src="https://cdn.brandfetch.io/idpMxmPV8l/w/480/h/480/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="40" alt="neo4j logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-
-### 🚀 Cloud, DevOps & Automation
-
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo" />
-
-### 🛠️ Tools & Productivity
-
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij idea logo" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo" />
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [**Votium**](https://github.com/danielpmdev/votium) | REST API for real-time event voting with JWT auth and interactive stats | Java · Spring Boot · Spring Security · Chart.js · Thymeleaf |
+| [**PetTracker**](https://github.com/danielpmdev/pettracker) | Pet profile & medical history management API with full CRUD and role-based security | Java · Spring Boot · JPA · Oracle · JWT |
 
 ---
 
-## 📫 Let's Get in Touch!
-<div align="center">
-  <a href="https://www.linkedin.com/in/danielpmdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:danielpm.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-danielpm.dev%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</div>
+## 🧰 Stack
+
+**Data & AI**  
+Python · Apache Kafka · Elasticsearch · Logstash · Kibana · scikit-learn · TensorFlow · PyTorch · Docker
+
+**Backend**  
+Java · Spring Boot · Spring Security · JPA/Hibernate · REST APIs
+
+**Databases**  
+PostgreSQL · MySQL · Oracle · MongoDB · Redis · Elasticsearch
+
+**Cloud & DevOps**  
+AWS · GitHub Actions · Git
+
+---
+
+## 📚 Currently
+
+- 🎓 Specialization in **Artificial Intelligence & Big Data** — IES Abastos, Valencia
+- 🔧 Building the **Mercadona price pipeline** as my final project (TFE)
+- 📖 Going deeper into **stream processing** and **ML in production**
